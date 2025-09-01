@@ -1,0 +1,17 @@
+
+.display {
+    background: #232326;
+    width: 60vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.429) , 0 0 10px rgba(255, 255, 255, 0.429), 0 0 13px rgba(255, 255, 255, 0.429), 0 0 16px rgba(255, 255, 255, 0.429) ;
+}
+
+.input {
+    width: 90%;
+    border: none;
+    outline: none;
+}
